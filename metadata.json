@@ -1,0 +1,7 @@
+{
+  "name": "EduBridge AI",
+  "description": "A premium, multilingual (Arabic/English) platform bridging the gap between education and employment with AI-driven roadmaps, readiness scoring, and a talent discovery feed.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
